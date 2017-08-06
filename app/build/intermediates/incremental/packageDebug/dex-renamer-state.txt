@@ -1,0 +1,7 @@
+#Sun Aug 06 17:51:44 IST 2017
+base.0=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6f43f508792b5cd0048feb2f400e7c38676847d0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cc3c177e3be87a869ea98651977bbe0f48fd7f2f\\classes.dex
+base.1=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cc3c177e3be87a869ea98651977bbe0f48fd7f2f
+file.0=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6f43f508792b5cd0048feb2f400e7c38676847d0\\classes.dex
