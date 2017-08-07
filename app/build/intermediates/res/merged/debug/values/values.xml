@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <declare-styleable name="GraphViewXML"><attr format="string" name="seriesData"/><attr format="string" name="seriesType"/><attr format="string" name="seriesTitle"/><attr name="android:title"/><attr format="color" name="seriesColor"/></declare-styleable>
     <string name="app_name">Embed Class Tut 2</string>
     <string name="dynamic_name">Next Z Value</string>
     <string name="hello_world">Hello world!</string>

@@ -1,0 +1,13 @@
+#Mon Aug 07 15:39:30 IST 2017
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes4.dex
+base.3=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_12c404f5eb29d52e346ac675f7ba359772f2bd84
+base.2=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.1.1_28f2270ea4e30bf063e93baab8141c0458b50c99
+base.1=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_492ef17f996dd58f51eb9aea0ff9f9b16a7977a0
+base.0=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.1.1_41830615293cf7f6c3a1c2c6b4a9809880bb8695
+file.3=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_12c404f5eb29d52e346ac675f7ba359772f2bd84\\classes.dex
+file.2=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.1.1_28f2270ea4e30bf063e93baab8141c0458b50c99\\classes.dex
+file.1=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_492ef17f996dd58f51eb9aea0ff9f9b16a7977a0\\classes.dex
+file.0=C\:\\Users\\USER\\Downloads\\accel-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.1.1_41830615293cf7f6c3a1c2c6b4a9809880bb8695\\classes.dex

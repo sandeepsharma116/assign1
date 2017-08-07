@@ -17,3 +17,7 @@ android {
         }
     }
 }
+
+dependencies {
+    compile 'com.jjoe64:graphview:4.2.1'
+}
